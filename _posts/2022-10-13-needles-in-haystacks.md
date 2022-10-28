@@ -18,11 +18,3 @@ So given that we can extract all of these candidate phrases, the next step is to
 Once we have the articles for the event, that may solve this task's first problem. Of course, it completely ignores the fact that, at the moment, we have no way of estimating recall - we don't know how many linguistic signatures we're missing because we don't know what we don't know and have no idea how many linguistic signatures are present in the corpus. A solution to that problem would be to annotate a subset and pick the subset reasonably where we can believe that the samples are representative of the corpus at large, but that has its own issues.
 
 However, once we have the article set, we embark upon a much more complex problem - how to structure the events into a narrative.
-
-
-
-
-
-
-
-
